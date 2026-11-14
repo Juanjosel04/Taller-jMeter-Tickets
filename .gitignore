@@ -1,0 +1,18 @@
+# Material y archivos de trabajo local
+material/
+evidencias/
+entrega/
+GUIA_SUSTENTACION.md
+
+# Salidas de JMeter
+*.jtl
+jmeter.log
+reporte/
+reporte-*/
+resultados/
+tmp/
+
+# Otros
+__pycache__/
+.vscode/
+.idea/
